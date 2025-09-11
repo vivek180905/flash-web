@@ -8,7 +8,7 @@ import { GoogleOAuthProvider } from "@react-oauth/google";
 import { useConvex } from "convex/react";
 import { api } from "@/convex/_generated/api";
 import { SidebarProvider } from "@/components/ui/sidebar";
-import AppSidebar from "@/components/custom/AppSidebar";
+import AppSidebar from "@/components/custom/AppSideBar";
 import { PayPalScriptProvider } from "@paypal/react-paypal-js";
 import { ActionContext } from "@/context/ActionContext";
 import { useRouter } from "next/navigation";
