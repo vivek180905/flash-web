@@ -2,6 +2,6 @@ export default {
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
-    "tailwind-scrollbar-hide": {},
+    "tailwind-scrollbar-hide": true,
   },
 };
