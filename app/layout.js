@@ -1,6 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import Provider from "./provider";
+import Provider from "./Provider";
 import ConvexClientProvider from "./ConvexClientProvider";
 import { Toaster } from "sonner";
 
