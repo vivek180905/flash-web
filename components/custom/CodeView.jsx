@@ -18,7 +18,7 @@ import { api } from "@/convex/_generated/api";
 import { useParams } from "next/navigation";
 import { useConvex } from "convex/react";
 import { Loader } from "react-feather";
-import SandPackPreviewClient from "./SandPackPreviewClient";
+import SandPackPreviewClient from "./SandpackPreviewClient";
 import { ActionContext } from "@/context/ActionContext";
 import { toast } from "sonner";
 
