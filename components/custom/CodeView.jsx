@@ -142,7 +142,7 @@ function CodeView() {
       {loading && (
         <div className="p-10 bg-gray-900 opacity-80 absolute top-0 rounded-lg w-full h-full flex items-center justify-center">
           <Loader className="animate-spin h-10 w-10 text-white" />
-          <h2 className="text-white">Generating Your Files...</h2>
+          <h2 className="text-white">Generating Your Files... please wait...</h2>
         </div>
       )}
     </div>
